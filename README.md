@@ -1,4 +1,5 @@
-# My_Project
+# Optimization of Standalone Hybrid Power Plant using ABC algorithm
+
 Developed a mathematical model of an autonomous PV-wind, diesel generator energy system with battery bank to provide electricity for an off-grid location.
 
 ## Folder_Structure
