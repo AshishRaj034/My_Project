@@ -22,3 +22,6 @@ Matlab 2018a
 ## Resources and References
 1. Zhou W, (https://user-images.githubusercontent.com/74810064/120441847-9fea9000-c3a2-11eb-9d7a-ff6e796eb1e0.png)
 2. https://guides.github.com/features/mastering-markdown/
+
+## Credits
+Reference requirements and architecture and test plan - S Sanchana
